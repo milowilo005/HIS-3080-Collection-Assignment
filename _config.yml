@@ -25,7 +25,7 @@ title: Hurricane Donna Exhibit
 tagline: Exhibit for Archiving History
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: This exhibition strives to teach the public of the tragedies of Hurricane Donna that impacted the SWFL area in 1960.
+description: This exhibition strives to teach the public of the tragedy of Hurricane Donna that impacted the SWFL area in 1960.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Milo Cheffer
 
@@ -63,3 +63,4 @@ exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md,
 # compress CSS output
 sass:
   style: compressed
+theme: jekyll-theme-cayman
